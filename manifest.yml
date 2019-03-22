@@ -1,0 +1,7 @@
+---
+applications:
+- name: spring-boot-programming-area
+  path: target/spring-demo-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
+  memory: 1024m
+  instances: 1
